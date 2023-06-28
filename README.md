@@ -1,13 +1,13 @@
 # Serdar ŞİMŞEK
 📱 (+90) 544 226 63 91 / (+32) 467 88 41 65 - 
-✉️ [Email](mailto:serdusmsk@yahoo.com)
+✉️ serdusmsk@yahoo.com 
 
 ## 🏫 Education
-- [Université Libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)
+- Université Libre de Bruxelles
   - Master's Program in Political Sciences and International Relations
-- [Istanbul University](https://www.istanbul.edu.tr/en/_)
+- Istanbul University
    - Bachelor's Degree in Political Sciences and International Relations
-- [Antalya Erünal Social Sciences High School](https://antalyaerunalsbl.meb.k12.tr/)
+- Antalya Erünal Social Sciences High School
 
 ## 💼 Experiences
 - Istanbul University Club of Cinema and Culture
@@ -22,7 +22,7 @@
 - German - Basic
 
 ## 🗞️ Certificates
-- [Toefl](https://docdro.id/un6Zels) - 95 Points
+- Toefl - 95 Points
 - YDS - 87.5 Points
 - Marmara University Modern United Nations Program
   - Delegate Of Sweden in the United Nations Security Council
