@@ -8,7 +8,7 @@
 - [Istanbul University](https://www.istanbul.edu.tr/en/_)
    - Bachelor's Degree in Political Sciences and International Relations
 - [Antalya Erünal Social Sciences High School](https://antalyaerunalsbl.meb.k12.tr/)
-- 
+ 
 ## 💼 Experiences
 - Istanbul University Club of Cinema and Culture
    - Board Member 2018-2020
@@ -19,13 +19,13 @@
 - Turkish - Native
 - English - Fluent
 - French - Basic
-- 
+ 
 ## 🗞️ Certificates
 - [Toefl](https://docdro.id/un6Zels) - 95 Points
 - YDS - 87.5 Points
 - Marmara University Modern United Nations Program
   - Delegate Of Sweden in the United Nations Security Council
-  - 
+   
 ## 🎖️ Personal Abilities
 - Microsoft Office Programs
 - Python - Familiar
