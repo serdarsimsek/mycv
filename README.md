@@ -1,6 +1,6 @@
 # Serdar ŞİMŞEK
 📱 (+90) 544 226 63 91 / (+32) 467 88 41 65 - 
-✉️ [Email](mailto:serdusmsk@yahoo.com) 
+✉️ [Email](mailto:serdar.simsek97@gmail.com) 
 
 ## 🏫 Education
 - [Université Libre de Bruxelles](https://www.ulb.be/en/ulb-homepage)
@@ -14,12 +14,11 @@
    - Board Member 2018-2020
 - Istanbul University Workshop of Political History
    - Moderator 2019-2020
-   - 
+   
 ## 🗨️ Languages
 - Turkish - Native
 - English - Fluent
-- French - Intermediate
-- German - Basic
+- French - Basic
 - 
 ## 🗞️ Certificates
 - [Toefl](https://docdro.id/un6Zels) - 95 Points
@@ -32,7 +31,7 @@
 - Python - Familiar
 - Html - Familiar
 - CSS - Familiar
-- 
+
 ## 🎤 Social Skills
 - Creativity
 - Critical Thinking
