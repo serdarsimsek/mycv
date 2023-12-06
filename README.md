@@ -1,4 +1,4 @@
-# Serdar ŞİMŞEK
+# Serdar CELİK
 📱 (+90) 544 226 63 91 / (+32) 467 88 41 65 - 
 ✉️ [Email](mailto:serdar.simsek97@gmail.com) 
 
